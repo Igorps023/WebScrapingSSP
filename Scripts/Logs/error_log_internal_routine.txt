@@ -1,0 +1,66 @@
+Error at index (2, 8, 93, 1): Cannot save file into a non-existent directory: 'C:\Users\stree\OneDrive\Desktop\Selenium\01projeto\zSSP\Output_file\2023_Ribeirï¿½o Preto_Vista Alegre do Alto_DM - Vista Alegre'
+Error at index (2, 12, 16, 1): Cannot save file into a non-existent directory: 'C:\Users\stree\OneDrive\Desktop\Selenium\01projeto\zSSP\Output_file\2023_Sorocaba_Bom Sucesso de Itararï¿½_DM - B. Sucesso '
+Error at index (2, 12, 44, 1): Message: The element with the reference 70d5721b-43ed-41be-b22c-ce252b5775e6 is stale; either its node document is not the active document, or it is no longer connected to the DOM; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:191:5
+StaleElementReferenceError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:708:5
+getKnownElement@chrome://remote/content/marionette/json.sys.mjs:401:11
+deserializeJSON@chrome://remote/content/marionette/json.sys.mjs:259:20
+cloneObject@chrome://remote/content/marionette/json.sys.mjs:59:24
+deserializeJSON@chrome://remote/content/marionette/json.sys.mjs:289:16
+json.deserialize@chrome://remote/content/marionette/json.sys.mjs:293:10
+receiveMessage@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:72:30
+
+Error at index (2, 8, 93, 1): Cannot save file into a non-existent directory: 'C:\Users\stree\OneDrive\Desktop\Selenium\01projeto\zSSP\Output_file\2023_Ribeirï¿½o Preto_Vista Alegre do Alto_DM - Vista Alegre'
+20240228_210317 | Error at index (2, 8, 93, 1): Cannot save file into a non-existent directory: 'C:\Users\stree\OneDrive\Desktop\Selenium\01projeto\zSSP\Output_file\2023_Ribeirï¿½o Preto_Vista Alegre do Alto_DM - Vista Alegre'
+20240228_210834 | Error at index (2, 8, 93, 1): Cannot save file into a non-existent directory: 'C:\Users\stree\OneDrive\Desktop\Selenium\01projeto\zSSP\Output_file\2023_Ribeirï¿½o Preto_Vista Alegre do Alto_DM - Vista Alegre'
+20240228_231214 | Error at index (2, 12, 44, 1): 'WebElement' object has no attribute 'textme'
+20240228_231742 | Error at index (2, 12, 16, 1): Cannot save file into a non-existent directory: 'C:\Users\stree\OneDrive\Desktop\Scrape SSP\Output_file\2023_Sorocaba_Bom Sucesso de Itararé_DM - B. Sucesso '
+20240228_233652 | Error at index (2, 1, 3, 12): Message: Failed to decode response from marionette
+
+20240228_234202 | Error at index (2, 1, 3, 6): Message: Browsing context has been discarded
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:191:5
+NoSuchWindowError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:662:5
+assert.that/<@chrome://remote/content/shared/webdriver/Assert.sys.mjs:485:13
+assert.open@chrome://remote/content/shared/webdriver/Assert.sys.mjs:147:4
+GeckoDriver.prototype.getElementText@chrome://remote/content/marionette/driver.sys.mjs:1836:15
+despatch@chrome://remote/content/marionette/server.sys.mjs:318:40
+execute@chrome://remote/content/marionette/server.sys.mjs:289:16
+onPacket/<@chrome://remote/content/marionette/server.sys.mjs:262:20
+onPacket@chrome://remote/content/marionette/server.sys.mjs:263:9
+_onJSONObjectReady/<@chrome://remote/content/marionette/transport.sys.mjs:494:20
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:570:17
+
+20240228_234647 | Error at index (2, 1, 3, 6): Message: Failed to decode response from marionette
+
+20240228_234855 | Error at index (2, 1, 3, 6): Message: Browsing context has been discarded
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:191:5
+NoSuchWindowError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:662:5
+assert.that/<@chrome://remote/content/shared/webdriver/Assert.sys.mjs:485:13
+assert.open@chrome://remote/content/shared/webdriver/Assert.sys.mjs:147:4
+GeckoDriver.prototype.findElements@chrome://remote/content/marionette/driver.sys.mjs:1572:15
+despatch@chrome://remote/content/marionette/server.sys.mjs:318:40
+execute@chrome://remote/content/marionette/server.sys.mjs:289:16
+onPacket/<@chrome://remote/content/marionette/server.sys.mjs:262:20
+onPacket@chrome://remote/content/marionette/server.sys.mjs:263:9
+_onJSONObjectReady/<@chrome://remote/content/marionette/transport.sys.mjs:494:20
+
+20240229_121322 | Error at index (2, 6, 29, 1): Message: The element with the reference 42abdb64-6911-4394-8b3b-007d882149ee is stale; either its node document is not the active document, or it is no longer connected to the DOM; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:191:5
+StaleElementReferenceError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:708:5
+getKnownElement@chrome://remote/content/marionette/json.sys.mjs:401:11
+deserializeJSON@chrome://remote/content/marionette/json.sys.mjs:259:20
+cloneObject@chrome://remote/content/marionette/json.sys.mjs:59:24
+deserializeJSON@chrome://remote/content/marionette/json.sys.mjs:289:16
+json.deserialize@chrome://remote/content/marionette/json.sys.mjs:293:10
+receiveMessage@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:72:30
+
+20240229_232208 | Error at index (2, 1, 3, 9): Message: Failed to decode response from marionette
+

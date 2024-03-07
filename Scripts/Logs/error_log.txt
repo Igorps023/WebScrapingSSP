@@ -1,0 +1,42 @@
+20240228_233652 | Error at index (2, 1, 3, 13): Message: Tried to run command without establishing a connection
+
+20240228_234202 | Error at index (2, 1, 3, 7): Message: WebDriver session does not exist, or is not active
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:191:5
+InvalidSessionIDError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:446:5
+assert.that/<@chrome://remote/content/shared/webdriver/Assert.sys.mjs:485:13
+assert.session@chrome://remote/content/shared/webdriver/Assert.sys.mjs:37:4
+despatch@chrome://remote/content/marionette/server.sys.mjs:315:19
+execute@chrome://remote/content/marionette/server.sys.mjs:289:16
+onPacket/<@chrome://remote/content/marionette/server.sys.mjs:262:20
+onPacket@chrome://remote/content/marionette/server.sys.mjs:263:9
+_onJSONObjectReady/<@chrome://remote/content/marionette/transport.sys.mjs:494:20
+
+20240228_234647 | Error at index (2, 1, 3, 7): Message: Tried to run command without establishing a connection
+
+20240228_234855 | Error at index (2, 1, 3, 7): Message: WebDriver session does not exist, or is not active
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:191:5
+InvalidSessionIDError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:446:5
+assert.that/<@chrome://remote/content/shared/webdriver/Assert.sys.mjs:485:13
+assert.session@chrome://remote/content/shared/webdriver/Assert.sys.mjs:37:4
+despatch@chrome://remote/content/marionette/server.sys.mjs:315:19
+execute@chrome://remote/content/marionette/server.sys.mjs:289:16
+onPacket/<@chrome://remote/content/marionette/server.sys.mjs:262:20
+onPacket@chrome://remote/content/marionette/server.sys.mjs:263:9
+_onJSONObjectReady/<@chrome://remote/content/marionette/transport.sys.mjs:494:20
+
+20240229_121322 | Error at index (2, 6, 30, 1): Message: Element <select class="form-select ng-valid ng-dirty ng-touched"> is not clickable at point (640,414) because another element <div class="ngx-spinner-overlay ng-tns-c16-0 ng-trigger ng-trigger-fadeIn ng-star-inserted"> obscures it
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:191:5
+ElementClickInterceptedError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:335:5
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:176:11
+interaction.clickElement@chrome://remote/content/marionette/interaction.sys.mjs:135:11
+clickElement@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:204:29
+receiveMessage@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:84:31
+
+20240229_232208 | Error at index (2, 1, 3, 10): Message: Tried to run command without establishing a connection
+

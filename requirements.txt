@@ -1,0 +1,4 @@
+pandas
+selenium
+mkdocs
+mkdocs-dracula-theme
